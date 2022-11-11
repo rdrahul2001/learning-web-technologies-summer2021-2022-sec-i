@@ -1,0 +1,43 @@
+<address_details>
+    <address_information>
+	  <id> 1 </id>
+	  <name> John Doe </name>
+	  <address>
+	  <house>38</house>
+	  <road>3</road>
+	  <area>Banani</area>
+	  <district>Dhaka</district>
+	  </address>
+	  <department>Sales</department>
+	  <salary>$20000</salary>
+    </address_information>	
+	
+	<address_information>
+	  <id> 2 </id>
+	  <name> Mark Zuckerberg </name>
+	  <address>
+	  <flat>A</flat>
+	  <house>20</house>
+	  <road>20</road>
+	  <area>Mirput</area>
+	  <district>Dhaka</district>
+	  </address>
+	  <department>Accounts</department>
+	  <salary>$12000</salary>
+    </address_information>	
+	
+	<address_information>
+	  <id> 3 </id>
+	  <name> Ala Voski </name>
+	  <address>
+	  <house>38</house>
+	  <road>3</road>
+	  <area>Motijheel</area>
+	  <district>Dhaka</district>
+	  </address>
+	  <department>Human Resources</department>
+	  <salary>$30000</salary>
+    </address_information>	
+	
+</address_details>
+	
